@@ -17,6 +17,33 @@ body::before {
 }
 
 .navbar-brand{
-    color:aqua;
+    color:rgb(98, 114, 215);
     font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
 }
+
+#contactUs{
+    color:black;
+}
+
+#card{
+    background-color:rgb(159, 170, 243);
+}
+
+#signup{
+    background-color: transparent;
+}
+
+#msignup{
+    background-color: rgb(207, 208, 208);
+}
+
+#car{
+    color:rgb(98, 114, 215);
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+
